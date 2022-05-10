@@ -1,0 +1,20 @@
+{
+  "name": "npm-deploy-sample",
+  "version": "1.0.0",
+  "description": "npm deploy sample project",
+  "author": "",
+  "bin": {
+    "message-gen": "bin/cli.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sample"
+  ],
+  "files": [
+    "cli",
+    "templates"
+  ],
+  "dependencies": {
+    "commander": "^9.2.0"
+  }
+}
